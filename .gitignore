@@ -1,0 +1,48 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+ENV/
+Scripts/
+Lib/
+Include/
+
+# ==========================
+# Streamlit
+# ==========================
+.streamlit/
+
+# ==========================
+# IDE / Editor
+# ==========================
+.vscode/
+.idea/
+*.code-workspace
+
+# ==========================
+# OS / System files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# Jupyter Notebook
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# Build / Dist
+# ==========================
+build/
+dist/
+*.egg-info/
